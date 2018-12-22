@@ -3,9 +3,10 @@
 
 Mutation calls from targeted sequencing for 170 genes in 35 cancer cell lines. 
 
-The 35 cell lines are present in both the GDSC and CCLE databases. 
+The 35 cell lines are present in both the GDSC and CCLE databases.
+
+GDSC (http://www.cancerrxgene.org)
 CCLE (https://cancer.sanger.ac.uk/cell_lines/download)
-GDSC (https://data.broadinstitute.org/ccle/CCLE_DepMap_18Q1_maf_20180207.txt)
 Updated CCLE (https://data.broadinstitute.org/ccle/CCLE_DepMap_18Q1_maf_20180207.txt)
 
 Alignment of targeted sequencing reads onto the reference sequence (hg19, UCSC genomes) was performed 
