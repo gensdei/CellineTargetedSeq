@@ -1,7 +1,7 @@
 # CellineTargetedSeq
 "False-negative errors in next-generation sequencing contribute substantially to inconsistency in mutation databases."
 
-Mutation calls from targeted sequencing for 170 genes in 35 cell lines. 
+Mutation calls from targeted sequencing for 170 genes in 35 cancer cell lines. 
 
 The 35 cell lines are present in both the GDSC and CCLE databases. 
 
