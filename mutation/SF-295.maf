@@ -1,0 +1,7 @@
+Hugo_Symbol	Entrez_Gene_Id	NCBI_Build	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Variant_Classification	Variant_Type	Tumor_Sample_Barcode	Strand	t_ref_count	t_alt_count	Allele_Frequency
+TET2	54790	hg19	106157698	106157698	T	C	Missense_Mutation	SNP	SF-295	+	526	282	0.349009900990099
+TET2	54790	hg19	106196834	106196834	C	T	Missense_Mutation	SNP	SF-295	+	871	428	0.329484218629715
+MAP3K1	4214	hg19	56177089	56177089	G	A	Missense_Mutation	SNP	SF-295	+	619	181	0.22625
+PTEN	5728	hg19	89717672	89717672	C	T	Nonsense_Mutation	SNP	SF-295	+	2	841	0.997627520759193
+TP53	7157	hg19	7577538	7577538	C	T	Missense_Mutation	SNP	SF-295	+	1	887	0.998873873873874
+NOTCH3	4854	hg19	15272005	15272005	C	T	Missense_Mutation	SNP	SF-295	+	200	191	0.48849104859335

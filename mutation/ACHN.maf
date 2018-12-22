@@ -1,0 +1,5 @@
+Hugo_Symbol	Entrez_Gene_Id	NCBI_Build	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Variant_Classification	Variant_Type	Tumor_Sample_Barcode	Strand	t_ref_count	t_alt_count	Allele_Frequency
+MSH6	2956	hg19	48027755	48027755	T	C	Missense_Mutation	SNP	ACHN	+	466	868	0.650674662668666
+MET	4233	hg19	116411990	116411990	C	T	Missense_Mutation	SNP	ACHN	+	740	1103	0.598480737927293
+SMO	6608	hg19	128851498	128851498	A	G	Missense_Mutation	SNP	ACHN	+	357	459	0.5625
+NF2	4771	hg19	30032794	30032794	C	T	Nonsense_Mutation	SNP	ACHN	+	8	802	0.990123456790123

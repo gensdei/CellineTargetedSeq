@@ -1,0 +1,5 @@
+Hugo_Symbol	Entrez_Gene_Id	NCBI_Build	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Variant_Classification	Variant_Type	Tumor_Sample_Barcode	Strand	t_ref_count	t_alt_count	Allele_Frequency
+PIK3R1	5295	hg19	67591246	67591246	A	T	Splice_Site	SNP	OVCAR-3	+	424	736	0.63448275862069
+JAK2	3717	hg19	5126343	5126343	G	A	Missense_Mutation	SNP	OVCAR-3	+	10	1400	0.99290780141844
+TP53	7157	hg19	7577538	7577538	C	T	Missense_Mutation	SNP	OVCAR-3	+	6	564	0.989473684210526
+NOTCH3	4854	hg19	15272498	15272498	G	A	Missense_Mutation	SNP	OVCAR-3	+	197	239	0.548165137614679

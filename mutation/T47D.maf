@@ -1,0 +1,4 @@
+Hugo_Symbol	Entrez_Gene_Id	NCBI_Build	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Variant_Classification	Variant_Type	Tumor_Sample_Barcode	Strand	t_ref_count	t_alt_count	Allele_Frequency
+PIK3CA	5290	hg19	178952085	178952085	A	G	Missense_Mutation	SNP	T47D	+	274	1313	0.827347195967234
+TSC2	7249	hg19	2103389	2103389	C	T	Missense_Mutation	SNP	T47D	+	86	172	0.666666666666667
+TP53	7157	hg19	7578269	7578269	G	A	Missense_Mutation	SNP	T47D	+	0	510	1

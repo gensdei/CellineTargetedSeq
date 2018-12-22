@@ -1,0 +1,5 @@
+Hugo_Symbol	Entrez_Gene_Id	NCBI_Build	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Variant_Classification	Variant_Type	Tumor_Sample_Barcode	Strand	t_ref_count	t_alt_count	Allele_Frequency
+ROS1	6098	hg19	117724379	117724379	C	T	Missense_Mutation	SNP	PC-3	+	725	585	0.446564885496183
+NOTCH1	4851	hg19	139412288	139412288	C	T	Missense_Mutation	SNP	PC-3	+	1320	405	0.234782608695652
+TP53	7157	hg19	7578516	7578516	G	-	Frame_Shift_Del	DEL	PC-3	+	0	636	1
+NOTCH3	4854	hg19	15289850	15289850	T	A	Missense_Mutation	SNP	PC-3	+	295	399	0.57492795389049

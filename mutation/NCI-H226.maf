@@ -1,0 +1,5 @@
+Hugo_Symbol	Entrez_Gene_Id	NCBI_Build	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Variant_Classification	Variant_Type	Tumor_Sample_Barcode	Strand	t_ref_count	t_alt_count	Allele_Frequency
+NOTCH2	4853	hg19	120459122	120459122	C	T	Missense_Mutation	SNP	NCI-H226	+	907	907	0.5
+APC	324	hg19	112174822	112174822	T	G	Missense_Mutation	SNP	NCI-H226	+	543	514	0.486281929990539
+ATM	472	hg19	108175455	108175455	A	T	Missense_Mutation	SNP	NCI-H226	+	542	228	0.296103896103896
+AXL	558	hg19	41754430	41754430	G	A	Missense_Mutation	SNP	NCI-H226	+	377	387	0.506544502617801

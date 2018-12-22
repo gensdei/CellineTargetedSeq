@@ -1,0 +1,4 @@
+Hugo_Symbol	Entrez_Gene_Id	NCBI_Build	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Variant_Classification	Variant_Type	Tumor_Sample_Barcode	Strand	t_ref_count	t_alt_count	Allele_Frequency
+CSF1R	1436	hg19	149436930	149436930	C	T	Missense_Mutation	SNP	BT-549	+	246	248	0.502024291497976
+PTEN	5728	hg19	89720670	89720670	G	-	Frame_Shift_Del	DEL	BT-549	+	0	117	1
+TP53	7157	hg19	7577534	7577534	C	G	Missense_Mutation	SNP	BT-549	+	0	1149	1

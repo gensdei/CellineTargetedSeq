@@ -1,0 +1,5 @@
+Hugo_Symbol	Entrez_Gene_Id	NCBI_Build	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Variant_Classification	Variant_Type	Tumor_Sample_Barcode	Strand	t_ref_count	t_alt_count	Allele_Frequency
+CSF1R	1436	hg19	149457810	149457810	G	A	Splice_Site	SNP	CALU6	+	459	200	0.303490136570561
+KRAS	3845	hg19	25380277	25380277	G	T	Missense_Mutation	SNP	CALU6	+	819	1449	0.638888888888889
+TP53	7157	hg19	7578263	7578263	G	A	Nonsense_Mutation	SNP	CALU6	+	2	676	0.997050147492625
+NOTCH3	4854	hg19	15302941	15302941	T	C	Missense_Mutation	SNP	CALU6	+	410	208	0.336569579288026
